@@ -14,4 +14,4 @@ Contents
 
    usage
    api
-   api v2
+   api-v2
