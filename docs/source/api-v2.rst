@@ -1,8 +1,5 @@
-.. container::
-   :name: print-first-page
-
-Cires21 APIv2 documentation
-===========================
+API v2
+======
 
 The API functions used to access the Cires21 applications are
 implemented with REST philosophy. This means that the same URI can be
