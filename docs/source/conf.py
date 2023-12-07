@@ -49,4 +49,4 @@ html_theme_options = {
 }
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+epub_show_urls = 'no' #original value 'footnote'
