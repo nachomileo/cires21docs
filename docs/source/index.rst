@@ -6,10 +6,3 @@ Welcome to Cires21's documentation!
 .. note::
 
    This docs are under active development.
-
-Contents
---------
-
-.. toctree::
-
-   api-v2
