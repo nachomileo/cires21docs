@@ -11,6 +11,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
 
    api-v2
