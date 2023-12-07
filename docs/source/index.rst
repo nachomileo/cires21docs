@@ -14,3 +14,4 @@ Contents
    :maxdepth: 1
 
    api-v2
+   encoder
