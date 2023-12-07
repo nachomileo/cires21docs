@@ -48,6 +48,10 @@ html_theme_options = {
     'titles_only': False
 }
 
+html_css_files = [
+    'custom.css',
+]
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 

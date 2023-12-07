@@ -1,0 +1,13 @@
+a {
+    color: #DF3539;
+    text-decoration: none;
+    cursor: pointer
+}
+
+a:hover {
+    color: #b02427
+}
+
+a:visited {
+    color: #797979
+}
